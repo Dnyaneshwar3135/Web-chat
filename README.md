@@ -1,4 +1,4 @@
-[![Netlify Status][netlify-shield]][netlify-url]
+   [![Netlify Status][netlify-shield]][netlify-url]
 
 <br />
 <p align="center">
